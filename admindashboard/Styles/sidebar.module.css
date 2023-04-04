@@ -1,0 +1,49 @@
+.impo {
+  padding-top: 50px;
+}
+
+
+.sidebar {
+    width: 14%;
+    height: 100vh;
+    background-color: #303030;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 23px;
+  }
+  
+  
+  .sidebar a {
+    display: block;
+    margin-top: 30px;
+    font-size: 13px;
+    color: #dcd9d9;
+    text-decoration: none;
+    border-bottom: 0.5px solid #959494;
+    padding-bottom: 5px; 
+    border-width: thin
+  }
+  
+  .sidebar a:hover {
+    color: #ffffff;
+  }
+
+  .topbar {
+    width: 14%;
+    height: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: maroon;
+  }
+
+  .topbar h2 {
+    background-color: rgb(119, 13, 13);
+    display: block;
+    padding-bottom: 15px;
+    color: white;
+    text-align: center;
+  }
+  
+  
