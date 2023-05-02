@@ -1,0 +1,100 @@
+.container {
+    width: 740px;
+    padding: 20px;
+    background-color: #ecebeb;
+    border-radius: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+  }
+  
+  .formGroup {
+    margin-bottom: 10px;
+    display: block;
+
+  }
+  
+.formName {
+    margin-right: 35%;
+}
+.formNames {
+    margin-right:20px;
+    width: 330px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 6px;
+}
+
+.providedBy {
+    margin-right:15px;
+    width: 330px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.category {
+    margin-right:15px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.categLabel {
+    margin-right: 20%;
+}
+
+.statLabel {
+    margin-right: 23%;
+}
+
+.status {
+    margin-right:15px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.file {
+    margin-right:15px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.description {
+    margin-right:15px;
+    width: 680px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    margin-right:15px;
+    width: 120px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #155a0f;
+    border-color: none;
+    margin-top: 20px;
+    color: #ecebeb;
+}
